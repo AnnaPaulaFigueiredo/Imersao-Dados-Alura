@@ -3,6 +3,9 @@
 # Descrição do Projeto
 A semana de Imersão Dados da Alura, conta com 5 aulas exclusivas e inéditas sobre o assunto Ciência de Dados. Este repósitório tem como objetivo, disponibilizar os desafios propostos pelos instrutores, para toda a comunidade.
 
+
+As análises são feitas usando a base dados pública do [ENEM 2019](http://download.inep.gov.br/microdados/microdados_enem_2019.zip).
+
 **Aconcelho abrir os arquivos no Google Colab *(OPEN IN COLAB)*, pois lá é possível vizualizar os gráficos interativos.**
 - **Dia 1:**
 
